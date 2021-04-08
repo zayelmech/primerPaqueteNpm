@@ -1,6 +1,6 @@
 {
   "name": "random-messages-abdielcro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Es un random de mensajes",
   "main": "src/index.js",
   "scripts": {
