@@ -1,20 +1,28 @@
 {
-    "name": "random-messages-abdielcro",
-    "version": "1.0.0",
-    "description": "Es un random de mensajes",
-    "main": "src/index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "javascript",
-        "npm",
-        "node"
-    ],
-    "author": "Abdiel Carreño <zayelmech@gmail.com>",
-    "license": "MIT",
-    "bin": {
-        "random-msg": "./bin/global.js"
-    },
-    "preferGlobal": true
+  "name": "random-messages-abdielcro",
+  "version": "1.0.0",
+  "description": "Es un random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "node"
+  ],
+  "author": "Abdiel Carreño <zayelmech@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zayelmech/primerPaqueteNpm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zayelmech/primerPaqueteNpm/issues"
+  },
+  "homepage": "https://github.com/zayelmech/primerPaqueteNpm#readme"
 }
