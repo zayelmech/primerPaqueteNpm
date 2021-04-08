@@ -4,6 +4,8 @@ const messages = [
     "jesica",
     "Diego",
     "laura",
+    "calorina",
+    "paulina"
 
 ];
 
